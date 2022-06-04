@@ -1,0 +1,11 @@
+{
+    "SiteName": "API Ecommerce",   
+    "DBURL": "mongodb://localhost:27017/",
+    "DB": "NgKitchenstory",
+    "ApiPort": 8002,
+    "ENV":"development",
+    "CookieB": "authedsfjkdsfjklsdf",
+    "HeaderAPIUser": "x-access-token"
+   
+   
+}
